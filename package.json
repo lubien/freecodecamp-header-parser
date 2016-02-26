@@ -1,0 +1,27 @@
+{
+  "name": "freecodecamp-header-parser",
+  "version": "1.0.0",
+  "description": "Get your IP address, language and operating system from your browser.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubien/freecodecamp-header-parser.git.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "Challenge"
+  ],
+  "author": "lubien <lubien1996@gmail.com> (http://lubien.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubien/freecodecamp-header-parser.git/issues"
+  },
+  "homepage": "https://github.com/lubien/freecodecamp-header-parser.git#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4"
+  }
+}
