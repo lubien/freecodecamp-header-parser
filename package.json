@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lubien/freecodecamp-header-parser.git.git"
+    "url": "git+https://github.com/lubien/freecodecamp-header-parser.git"
   },
   "keywords": [
     "FreeCodeCamp",
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/lubien/freecodecamp-header-parser.git#readme",
   "dependencies": {
     "dotenv": "^2.0.0",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "ipware": "0.0.7"
   }
 }
